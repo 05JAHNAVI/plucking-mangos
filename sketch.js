@@ -40,7 +40,7 @@ function draw() {
   background("cyan")
   fill('red');
   textSize(24);
-  text("PRESS SPACE TO GET A SECOND CHANCE TO PLAY", 200,200);
+  text("PRESS SPACE TO GET A ANOTHER CHANCE TO PLAY", 200,200);
   ground.display();
   tree.display();
   boy.display();
